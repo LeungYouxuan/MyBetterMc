@@ -1,0 +1,20 @@
+{
+	id: "377110c2-9979-461f-bafa-05a1e5a42f1b"
+	type: "player"
+	player_name: "Splend1d"
+	ranks: {
+		377110c2-9979-461f-bafa-05a1e5a42f1b: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "Splend1d"
+		"ftbteams:color": "#EAFF59"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,5 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type
+#
+waypoint:TempCraft:T:-179:74:501:6:false:0:gui.xaero_default:false:0:0
+waypoint:Home:H:-183:63:213:9:false:0:gui.xaero_default:false:0:0

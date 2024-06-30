@@ -1,0 +1,6 @@
+#34D minecraft:deep_lukewarm_ocean
+#79A minecraft:lukewarm_ocean
+#4AA byg:rainbow_beach
+#5FF minecraft:river
+#2F3 byg:tropical_islands
+#2B7 minecraft:warm_ocean
